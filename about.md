@@ -12,4 +12,4 @@ L'expérience est le nom que l'on donne à ses erreurs, et ces savoirs s'acquiè
 
 I'm a man who love coffee, thé and lot of things.
 
-#### Contact me on github
+#### Contact me on linkedIn
