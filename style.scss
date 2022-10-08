@@ -18,14 +18,13 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
@@ -272,6 +271,9 @@ nav {
 }
 
 .wrapper-footer {
+  display: block;
+  position: absolute;	
+  bottom: 0px;	
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
