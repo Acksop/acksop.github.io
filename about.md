@@ -10,6 +10,6 @@ L'expérience est le nom que l'on donne à ses erreurs, et ces savoirs s'acquiè
 
 ### More Information
 
-I'm a man who love coffee, thé and lot of things.
+I'm a man who love tea, coffee and lot of things.
 
 #### Contact me on linkedIn
