@@ -25,7 +25,17 @@ body {
 
 .container {
   margin: 0 5%;
-  padding: 0 2rem;
+  padding: 0 2em 15em 2em;
+  width: 80%;
+}
+
+.head-container {
+  padding: 0 2em;
+  width: 100%;
+}
+
+.footer-container {
+  padding: 0 2em;
   width: 100%;
 }
 
@@ -149,7 +159,7 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
+.wrapper-head {
   margin-bottom: 50px;
 }
 
@@ -272,7 +282,7 @@ nav {
 
 .wrapper-footer {
   display: block;
-  position: absolute;	
+  position: fixed;	
   bottom: 0px;	
   margin-top: 50px;
   border-top: 1px solid #ddd;
