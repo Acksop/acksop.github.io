@@ -160,7 +160,9 @@ img {
 //
 
 .wrapper-head {
-  margin-bottom: 50px;
+  display: block;
+  position: fixed;	
+  top: 0px;
 }
 
 .masthead {
