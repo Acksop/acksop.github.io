@@ -1,7 +1,7 @@
 ---
 layout: books
 title: Books
-date: Jan 1, 2018
+date: Oct 8, 2022
 permalink: /books/
 ---
 
@@ -15,5 +15,5 @@ Mais je ne vous parle pas de ma bibliothèque, il y a tant à dire.
 
 Je lis en ce moment : L'homme Nu, PHP7 Avancé, une saga de Jean Ray ainsi que d'autres livres où je pioche un peu de temps à autre.
 
-#### Contact me on github
+#### Contact me :
 
