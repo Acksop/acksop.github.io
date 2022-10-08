@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-L'expérience est le nom que l'on donne a ses erreurs, et ce savoir s'acquiert lorsque l'on le transmet.
+### Citation inédite
+
+L'expérience est le nom que l'on donne à ses erreurs, et ces savoirs s'acquièrent lorsque l'on les transmet.
 
 ### More Information
 
-I'm a man who love coffee.
+I'm a man who love coffee, thé and lot of things.
 
-### Contact me
-
-[acksop@yahoo.fr](mailto:acksop@yahoo.fr)
+#### Contact me on github
