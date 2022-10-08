@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+L'expérience est le nom que l'on donne a ses erreurs, et ce savoir s'acquiert lorsque l'on le transmet.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a man who love coffee.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[acksop@yahoo.fr](mailto:acksop@yahoo.fr)
